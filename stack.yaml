@@ -15,3 +15,4 @@ extra-deps:
   - 'amazonka-apigateway-1.4.3'
   - 'amazonka-lambda-1.4.3'
   - tokenize-0.3.0
+  - 
